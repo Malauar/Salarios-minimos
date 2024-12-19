@@ -1,0 +1,35 @@
+Region,Pais,Salario Minimo,Moneda,Alquiler Accesible,Alimentacion,Servicios Publicos,Internet,Transporte,Entretenimiento Basico,Año
+Europa,Luxemburgo,2459,USD,700,250,120,30,50,50,2024
+Europa,Paises Bajos,2326,USD,650,230,100,25,45,45,2024
+Europa,Alemania,1729,USD,550,200,90,25,40,40,2024
+Europa,Francia,1505,USD,600,210,95,20,40,40,2024
+Europa,Reino Unido,1937,USD,700,250,120,30,50,50,2024
+Europa,Irlanda,2020,USD,650,230,110,25,45,45,2024
+Europa,España,1134,USD,450,180,70,20,30,30,2024
+Europa,Italia,1300,USD,500,200,80,25,35,35,2024
+Europa,Portugal,756,USD,350,160,60,15,25,25,2024
+Europa,Grecia,758,USD,300,150,55,15,25,20,2024
+Europa,Polonia,785,USD,280,140,50,10,20,20,2024
+Europa,Republica Checa,722,USD,300,150,55,15,25,25,2024
+Europa,Eslovaquia,662,USD,270,130,45,10,20,20,2024
+Europa,Rumania,450,USD,230,120,40,10,20,15,2024
+Europa,Bulgaria,398,USD,200,110,35,10,15,15,2024
+America Latina,Costa Rica,572,USD,250,150,60,20,30,30,2024
+America Latina,Chile,423,USD,200,130,50,15,25,25,2024
+America Latina,Uruguay,461,USD,180,120,45,15,25,20,2024
+America Latina,Brasil,263,USD,150,100,40,15,20,20,2024
+America Latina,Argentina,297,USD,140,90,35,10,20,15,2024
+America Latina,Mexico,397,USD,130,80,30,10,15,15,2024
+America Latina,Colombia,328,USD,150,70,25,10,15,10,2024
+America Latina,Ecuador,417,USD,110,70,25,10,15,10,2024
+America Latina,El Salvador,243,USD,100,65,20,10,10,10,2024
+America Latina,Paraguay,250,USD,110,70,25,10,15,10,2024
+America Latina,Bolivia,298,USD,100,65,20,10,10,10,2024
+America Latina,Peru,240,USD,120,75,30,15,15,15,2024
+America Latina,Guatemala,220,USD,90,60,20,10,10,10,2024
+America Latina,Honduras,200,USD,80,55,20,10,10,10,2024
+America Latina,Nicaragua,190,USD,80,50,15,10,10,10,2024
+Oceania,Australia,2150,USD,1200,400,180,70,80,80,2024
+Oceania,Nueva Zelanda,1977,USD,1100,350,160,60,70,70,2024
+Norte América,Estados Unidos,1619,USD,600,250,120,50,50,50,2024
+Norte América,Canadá,1633,USD,800,300,150,60,60,60,2024
